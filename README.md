@@ -56,4 +56,12 @@ python leetcode problems
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tharaneesh-95/python-leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Tharaneesh-95/python-leetcode-solutions/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Tharaneesh-95/python-leetcode-solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
