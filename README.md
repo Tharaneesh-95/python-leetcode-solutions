@@ -44,8 +44,10 @@ python leetcode problems
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tharaneesh-95/python-leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Tharaneesh-95/python-leetcode-solutions/tree/master/0027-remove-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tharaneesh-95/python-leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Tharaneesh-95/python-leetcode-solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
